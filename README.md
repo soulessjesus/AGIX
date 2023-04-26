@@ -3,7 +3,7 @@ AGI Chatbot  This is an Artificial General Intelligence (AGI) chatbot that can p
 
 Functionality
 
-The AGI chatbot can perform the following tasks:
+The AGIX chatbot can perform the following tasks:
 
     Keyword extraction: Extract relevant keywords from a user's input.
     Sentiment analysis: Determine the sentiment (positive, negative, or neutral) of a given text input.
@@ -13,7 +13,7 @@ The AGI chatbot can perform the following tasks:
 
 Usage
 
-To use the AGI chatbot, simply run the main.py file and interact with the GUI provided. The GUI has various input fields such as a text input for the user's query and buttons to perform specific tasks such as keyword extraction, sentiment analysis, web search, search result refinement, and text summarization.
+To use the AGIX chatbot, simply run the main.py file and interact with the GUI provided. The GUI has various input fields such as a text input for the user's query and buttons to perform specific tasks such as keyword extraction, sentiment analysis, web search, search result refinement, and text summarization.
 Future Development
 
 In the future, we plan to add more functionality to the AGI chatbot such as:
@@ -24,7 +24,7 @@ In the future, we plan to add more functionality to the AGI chatbot such as:
 
 Dependencies
 
-The AGI chatbot requires the following dependencies:
+The AGIX chatbot requires the following dependencies:
 
     Python 3.7 or later
     Hugging Face Transformers
